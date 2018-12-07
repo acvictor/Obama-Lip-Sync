@@ -1,1 +1,1 @@
-These files contain the raw landmark point data Iin pixels) for their corresponding videos. Each row corresponds to one frame and the values are arranged pairwise - x1, y1, x2, y2,...,x68, y68.
+These files contain the raw landmark point data (in pixels) and their corresponding videos for 12 such videos sampled at 25 fps. Each row corresponds to one frame and the values are arranged as x1, y1, x2, y2,...,x68, y68 along the columns. e points were obatined using dlib's pose estimator.
